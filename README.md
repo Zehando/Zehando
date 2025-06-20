@@ -17,4 +17,4 @@
 <h2> :wave: Connect with me:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sahandazizi/)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:email@example.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:azizisahand@gmail.com)
