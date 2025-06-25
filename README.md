@@ -12,6 +12,7 @@
 - <b>Side Projects</b>
   - [Hangman Game on Python](https://github.com/Zehando/Python-Hangman)
   - [Ode to overthinking](https://github.com/Zehando/ode-to-my-overthinking)
+  - [Unnecessary correlation, but related: Cheese consumption and death by bedsheets](https://github.com/Zehando/CheeseAndDeathByBedsheets)
 
 
 <h2> :wave: Connect with me:</h2>
