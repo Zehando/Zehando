@@ -2,11 +2,13 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Analysis with Tablue and SQL</b>
+- <b>Data Analysis</b>
   - [Business expanding analysis to a new country](https://github.com/Zehando/Business-expanding-analysis)
-    
-- <b>Data Analysis with Python</b>
+     <b><i>Tools : (SQL, Tablue)</b></i>
   - [Pricing strategy and the impact of the discounts on sales](https://github.com/Zehando/eniac-pricing-strategy-analysis) <b><i>(Pandas, Seaborn, matplotlib, NumPy)</b></i>
+  - [Business KPI Dashboard Project](https://github.com/Zehando/business-kpi-dashboards) <b><i>(Looker, BigQuery, Python)</b></i>
+
+- <b>Data Science</b>
   - [A/B Testing: designing, implementing and interpreting resaults](https://github.com/Zehando/eniac-pricing-strategy-analysis) <b><i>(Pandas, SciPy, matplotlib)</b></i>
   
 - <b>Side Projects</b>
