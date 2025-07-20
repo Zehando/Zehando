@@ -3,8 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Analysis</b>
-  - [Business expanding analysis to a new country](https://github.com/Zehando/Business-expanding-analysis)
-     <b><i>Tools : (SQL, Tablue)</b></i>
+  - [Business expanding analysis to a new country](https://github.com/Zehando/Business-expanding-analysis)<b><i>(SQL, Tablue)</b></i>
   - [Pricing strategy and the impact of the discounts on sales](https://github.com/Zehando/eniac-pricing-strategy-analysis) <b><i>(Pandas, Seaborn, matplotlib, NumPy)</b></i>
   - [Business KPI Dashboard Project](https://github.com/Zehando/business-kpi-dashboards) <b><i>(Looker, BigQuery, Python)</b></i>
 
