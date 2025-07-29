@@ -9,6 +9,9 @@
 
 - <b>Data Science</b>
   - [A/B Testing: designing, implementing and interpreting resaults](https://github.com/Zehando/eniac-pricing-strategy-analysis) <b><i>(Pandas, SciPy, matplotlib)</b></i>
+
+- <b>Mini App</b>
+  - [Building small library database and UI to alter data](https://github.com/Zehando/small-library) <b><i>(Python, Streamlit, SQL, Cloud)</b></i>
   
 - <b>Side Projects</b>
   - [Hangman Game on Python](https://github.com/Zehando/Python-Hangman)
