@@ -1,7 +1,7 @@
 # Hi, I'm [Sahand!](https://www.linkedin.com/in/sahandazizi/)
 [Aspiring Data Scientist](https://github.com/zehando)
 
-## 👋 About Me
+## :bar_chart: About Me
 
 A detail-oriented professional with 10+ years of experience in foreign trade, supply chain management, and sales coordination across FMCG and industrial sectors.  
 
