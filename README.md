@@ -23,6 +23,10 @@ I’m passionate about turning data into actionable insights, solving business p
 - [A/B Testing: designing, implementing and interpreting results](https://github.com/Zehando/eniac-pricing-strategy-analysis)  
   <small>(Pandas, SciPy, Matplotlib)</small>
 
+### Data Engineering
+- [An End-to-End Azure Data Engineering Pipeline](https://github.com/Zehando/dp900-azure-etl-project)  
+  <small>(Azure,Python, Pandas, Scikit-Learn)</small>
+
 ### Mini App
 - [Small library database with UI to alter data](https://github.com/Zehando/small-library)  
   <small>(Python, Streamlit, SQL, Cloud)</small>
