@@ -7,7 +7,7 @@ I'm a Data Scientist passionate about transforming raw data into actionable insi
 
 A detail-oriented professional with 10+ years of experience in foreign trade and supply chain management. I am currently pivoting into data, leveraging my business acumen to solve problems with analytics.
 
-I recently completed a **1-year Data Science & AI program** at WBS Coding School, Berlin, building hands-on projects and gaining proficiency in the tools below.
+Currently enrolled in a **1-year Data Science & AI program** at WBS Coding School, Berlin, building hands-on projects and gaining proficiency in the tools below.
 
 ## 🛠️ Tech Stack
 
