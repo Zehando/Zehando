@@ -54,15 +54,14 @@ I recently completed a **1-year Data Science & AI program** at WBS Coding School
   - *Created a web app with a Streamlit UI to perform CRUD operations on a cloud-hosted SQL database.*
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### Other Projects & Explorations
-- **[Hangman Game in Python](https://github.com/Zehando/Python-Hangman)**
-  - *A classic command-line Hangman game built to practice Python fundamentals and logic.*
-
-- **[Unnecessary Correlation Analysis](https://github.com/Zehando/CheeseAndDeathByBedsheets)**
-  - *A fun data analysis project exploring spurious correlations, inspired by Tyler Vigen's work.*
+<details>
+  <summary><h3>Other Projects & Explorations</h3></summary>
   
+  - **[Hangman Game in Python](https://github.com/Zehando/Python-Hangman)**
+- **[Unnecessary Correlation Analysis](https://github.com/Zehando/CheeseAndDeathByBedsheets)**
 - **[Ode to Overthinking](https://github.com/Zehando/ode-to-my-overthinking)**
-  - *A creative and personal project.*
+
+</details>
 
 ---
 
