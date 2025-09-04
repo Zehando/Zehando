@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="140" viewBox="0 0 640 140">
+  <style>
+    .name { font: 600 20px "Segoe UI", Arial, sans-serif; fill: #ffffff; }
+    .headline { font: 13px "Segoe UI", Arial, sans-serif; fill: #e5e7eb; }
+    .button { font: 600 14px "Segoe UI", Arial, sans-serif; fill: #e5e7eb; }
+  </style>
+
+  <!-- Background -->
+  <rect rx="14" ry="14" width="640" height="140" fill="#0A66C2"/>
+
+  <!-- Avatar (clipped circle) -->
+  <defs>
+    <clipPath id="circleView">
+      <circle cx="70" cy="70" r="40"/>
+    </clipPath>
+  </defs>
+  <image x="30" y="30" width="80" height="80"
+    href="https://avatars.githubusercontent.com/u/120621648?v=4"
+    clip-path="url(#circleView)" preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Text -->
+  <text x="130" y="60" class="name">Sahand AZIZI</text>
+  <text x="130" y="85" class="headline">Aspiring Data Scientist | Python, SQL, ML, Tableau, Azure, AI</text>
+  <text x="130" y="105" class="headline">International Supply Chain & Trade | Unilever · WBS CODING SCHOOL</text>
+
+  <!-- Button (visual only, not clickable inside GitHub) -->
+  <rect x="470" y="50" width="140" height="40" rx="10" ry="10" fill="#0f172a"/>
+  <text x="540" y="75" text-anchor="middle" class="button">View Profile ↗</text>
+</svg>
