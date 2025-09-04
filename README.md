@@ -73,6 +73,3 @@ I recently completed a **1-year Data Science & AI program** at WBS Coding School
   &nbsp;&nbsp;
   <a href="mailto:azizisahand@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
 </p>
-
-
-              
